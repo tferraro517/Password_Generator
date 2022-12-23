@@ -22,3 +22,4 @@ THEN a password is generated from my choices
 
 WHEN the password is generated
 THEN the password is shown in the box
+<img width="961" alt="Screenshot_Webpage" src="https://user-images.githubusercontent.com/118402182/209264363-75d91bcb-ecab-4bce-80dd-3fa037cbf485.png">
